@@ -1,0 +1,14 @@
+.box
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: cyan;
+  width: auto;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  line-height: normal;
+}
+
